@@ -1,0 +1,4 @@
+ciklus j1,2
+if
+ciklus i=2,3,4
+ki(i)
