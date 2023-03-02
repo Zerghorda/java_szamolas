@@ -1,4 +1,18 @@
-ciklus j1,2
-if
-ciklus i=2,3,4
-ki(i)
+        for (int k = 2; k <= 4; k++) {
+
+            for (int j = 2; j <= 4; j++) {
+
+                for (int i = 2; i <= 4; i++) {
+                    System.out.println(k + "" + j + "" + i);
+                }
+            }
+        }
+    InputStreamReader inputStreamReader = new InputStreamReader(System.in);
+BufferedReader szov = new BufferedReader(inputStreamReader);
+System.out.println("Szeretnéd ismételni?(igen vagy nem)";
+String v = reader.readLine();
+if v == "igen"{
+
+}
+elif{
+}
